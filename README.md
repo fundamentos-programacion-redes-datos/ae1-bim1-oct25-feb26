@@ -1,7 +1,7 @@
 # ae1-bim1-aa2025
 
 # Problemática
-Un almacén de venta de trajes desea optimizar su sistema de facturación y análisis de ventas. Para ello, se requiere desarrollar un programa en Python que cumpla con los siguientes requerimientos:
+Un almacén de venta de trajes desea optimizar su sistema de facturación y análisis de ventas. Para ello, se requiere desarrollar un programa que cumpla con los siguientes requerimientos:
 
 ## Entrada de datos:
 
