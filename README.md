@@ -1,4 +1,4 @@
-# ae1-bim1-aa2025
+# ae1-bim1-octubre25-febrero26
 
 # Problemática
 Un almacén de venta de trajes desea optimizar su sistema de facturación y análisis de ventas. Para ello, se requiere desarrollar un programa que cumpla con los siguientes requerimientos:
