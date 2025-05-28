@@ -36,7 +36,7 @@ Un librería desea optimizar su sistema de facturación y análisis de ventas. P
 
 Las posiciones se corresponden, la posición 0 de cada arreglo, darian una registro completo
 
-## Mostrar la información de cada compra registrada.
-
-## Calcular y mostrar el promedio de ventas realizadas.
-## Determinar la venta más alta y la más baja.
+Luego de finalizar el ingreso y calculo de datos se debe presentar:
+* Mostrar la información de cada compra registrada.
+* Calcular y mostrar el promedio de ventas realizadas.
+* Determinar la venta más alta y la más baja.
